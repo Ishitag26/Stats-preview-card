@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Links
 - Solution URL: https://github.com/Ishita-gup123/Stats-preview-card.git
-- Live Site URL: http://127.0.0.1:5500/images/index.html
+- Live Site URL: https://statspreview-1.netlify.app/
 
 ## My process
 
